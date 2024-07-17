@@ -1,1 +1,1 @@
-# Minor-Project-MSU
+# MSUPREP Minor-Project
